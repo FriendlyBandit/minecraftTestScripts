@@ -1,0 +1,9 @@
+name: ResetPlugin
+version: 1.0-SNAPSHOT
+main: io.github.friendlybandit.resetplugin.resetplugin
+api-version: 1.16
+commands:
+  r:
+      description: Resets the server with a new world
+      usage: /<command>
+      permission: true
